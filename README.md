@@ -185,7 +185,8 @@ Analyzes a speech input and returns performance metrics.
 | Homepage | Level 1 Practice | Analytics Dashboard |
 |----------|-----------------|---------------------|
 | ![Homepage](screenshots/h<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a13fc4f7-4dbb-4c28-bf2c-d10b2a85a485" />
-omepage.png) | ![Level 1](screenshots/level1.png) | ![Analytics](screenshots/analytics.png)<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/df6b0e8d-b213-4dd3-90a4-c18e291674b7" />
+omepage.png) | ![Level 1](screenshots/level1.png)<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f68e6d6c-9b0d-4657-9ab5-0c0daa7cb6e2" />
+ | ![Analytics](screenshots/analytics.png)<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/df6b0e8d-b213-4dd3-90a4-c18e291674b7" />
  |
 
 ---
